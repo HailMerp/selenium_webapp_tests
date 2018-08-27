@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 from selenium.webdriver.common.keys import Keys
-from additional_scripts.navigate import Navigate as nav
+from navigate import Navigate as nav
 from selenium.webdriver.common.action_chains import ActionChains
 
 
